@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  background-color: #121212;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f4f6f9;
+  border-radius: 15px;
+}
